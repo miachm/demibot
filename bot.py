@@ -23,6 +23,7 @@ bot = telepot.Bot(token)
 bot.notifyOnMessage(handle)
 
 print('Listening')
+print('Hihihihi')
 
 while 1:
     time.sleep(10)
